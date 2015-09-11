@@ -4494,159 +4494,241 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/dist\/images\/gift.png": {
+	"\/dist\/apple-touch-icon.9727d3c2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6702,
+		"inputAbbreviatedPath": "\/dist\/apple-touch-icon.9727d3c2.png",
+		"outputAbbreviatedPath": "\/dist\/apple-touch-icon.9727d3c2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/dist\/images\/gift.4b92b381.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2753,
-		"inputAbbreviatedPath": "\/dist\/images\/gift.png",
-		"outputAbbreviatedPath": "\/dist\/images\/gift.png",
+		"inputAbbreviatedPath": "\/dist\/images\/gift.4b92b381.png",
+		"outputAbbreviatedPath": "\/dist\/images\/gift.4b92b381.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/images\/group.png": {
+	"\/dist\/images\/group.3c4c2143.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 92218,
-		"inputAbbreviatedPath": "\/dist\/images\/group.png",
-		"outputAbbreviatedPath": "\/dist\/images\/group.png",
+		"inputAbbreviatedPath": "\/dist\/images\/group.3c4c2143.png",
+		"outputAbbreviatedPath": "\/dist\/images\/group.3c4c2143.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/images\/left.png": {
+	"\/dist\/images\/left.e97f4d99.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 256,
-		"inputAbbreviatedPath": "\/dist\/images\/left.png",
-		"outputAbbreviatedPath": "\/dist\/images\/left.png",
+		"inputAbbreviatedPath": "\/dist\/images\/left.e97f4d99.png",
+		"outputAbbreviatedPath": "\/dist\/images\/left.e97f4d99.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/images\/lend.png": {
+	"\/dist\/images\/lend.b4324e84.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2780,
-		"inputAbbreviatedPath": "\/dist\/images\/lend.png",
-		"outputAbbreviatedPath": "\/dist\/images\/lend.png",
+		"inputAbbreviatedPath": "\/dist\/images\/lend.b4324e84.png",
+		"outputAbbreviatedPath": "\/dist\/images\/lend.b4324e84.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/images\/lotuslogo.png": {
+	"\/dist\/images\/lotuslogo.c018749e.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 37776,
-		"inputAbbreviatedPath": "\/dist\/images\/lotuslogo.png",
-		"outputAbbreviatedPath": "\/dist\/images\/lotuslogo.png",
+		"inputAbbreviatedPath": "\/dist\/images\/lotuslogo.c018749e.png",
+		"outputAbbreviatedPath": "\/dist\/images\/lotuslogo.c018749e.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/images\/massage.png": {
+	"\/dist\/images\/massage.197f473d.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 8240,
-		"inputAbbreviatedPath": "\/dist\/images\/massage.png",
-		"outputAbbreviatedPath": "\/dist\/images\/massage.png",
+		"inputAbbreviatedPath": "\/dist\/images\/massage.197f473d.png",
+		"outputAbbreviatedPath": "\/dist\/images\/massage.197f473d.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/images\/meditation-tim.png": {
+	"\/dist\/images\/meditation-tim.2ec7136a.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 560240,
-		"inputAbbreviatedPath": "\/dist\/images\/meditation-tim.png",
-		"outputAbbreviatedPath": "\/dist\/images\/meditation-tim.png",
+		"inputAbbreviatedPath": "\/dist\/images\/meditation-tim.2ec7136a.png",
+		"outputAbbreviatedPath": "\/dist\/images\/meditation-tim.2ec7136a.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/images\/meditation.png": {
+	"\/dist\/images\/meditation.37f1dbff.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 11582,
-		"inputAbbreviatedPath": "\/dist\/images\/meditation.png",
-		"outputAbbreviatedPath": "\/dist\/images\/meditation.png",
+		"inputAbbreviatedPath": "\/dist\/images\/meditation.37f1dbff.png",
+		"outputAbbreviatedPath": "\/dist\/images\/meditation.37f1dbff.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/images\/monk.png": {
+	"\/dist\/images\/monk.30ed305a.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 21818,
-		"inputAbbreviatedPath": "\/dist\/images\/monk.png",
-		"outputAbbreviatedPath": "\/dist\/images\/monk.png",
+		"inputAbbreviatedPath": "\/dist\/images\/monk.30ed305a.png",
+		"outputAbbreviatedPath": "\/dist\/images\/monk.30ed305a.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/images\/qigong.png": {
+	"\/dist\/images\/qigong.7a845fbb.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 21619,
-		"inputAbbreviatedPath": "\/dist\/images\/qigong.png",
-		"outputAbbreviatedPath": "\/dist\/images\/qigong.png",
+		"inputAbbreviatedPath": "\/dist\/images\/qigong.7a845fbb.png",
+		"outputAbbreviatedPath": "\/dist\/images\/qigong.7a845fbb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/images\/right.png": {
+	"\/dist\/images\/right.a363de98.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 381,
-		"inputAbbreviatedPath": "\/dist\/images\/right.png",
-		"outputAbbreviatedPath": "\/dist\/images\/right.png",
+		"inputAbbreviatedPath": "\/dist\/images\/right.a363de98.png",
+		"outputAbbreviatedPath": "\/dist\/images\/right.a363de98.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/images\/taichi.png": {
+	"\/dist\/images\/taichi.cc91e92b.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 212127,
-		"inputAbbreviatedPath": "\/dist\/images\/taichi.png",
-		"outputAbbreviatedPath": "\/dist\/images\/taichi.png",
+		"inputAbbreviatedPath": "\/dist\/images\/taichi.cc91e92b.png",
+		"outputAbbreviatedPath": "\/dist\/images\/taichi.cc91e92b.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/images\/usuilogo.png": {
+	"\/dist\/images\/usuilogo.825ed679.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 5631,
-		"inputAbbreviatedPath": "\/dist\/images\/usuilogo.png",
-		"outputAbbreviatedPath": "\/dist\/images\/usuilogo.png",
+		"inputAbbreviatedPath": "\/dist\/images\/usuilogo.825ed679.png",
+		"outputAbbreviatedPath": "\/dist\/images\/usuilogo.825ed679.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/images\/visit.png": {
+	"\/dist\/images\/visit.c2f9ba90.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1667,
-		"inputAbbreviatedPath": "\/dist\/images\/visit.png",
-		"outputAbbreviatedPath": "\/dist\/images\/visit.png",
+		"inputAbbreviatedPath": "\/dist\/images\/visit.c2f9ba90.png",
+		"outputAbbreviatedPath": "\/dist\/images\/visit.c2f9ba90.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/dist\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dist\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dist\/scripts\/main.5e7296ef.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dist\/scripts\/main.5e7296ef.js",
+		"outputAbbreviatedPath": "\/dist\/scripts\/min\/main.5e7296ef-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/dist\/scripts\/plugins.d41d8cd9.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dist\/scripts\/plugins.d41d8cd9.js",
+		"outputAbbreviatedPath": "\/dist\/scripts\/min\/plugins.d41d8cd9-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/dist\/scripts\/vendor.d41d8cd9.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dist\/scripts\/vendor.d41d8cd9.js",
+		"outputAbbreviatedPath": "\/dist\/scripts\/min\/vendor.d41d8cd9-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/dist\/scripts\/vendor\/modernizr.fbe20327.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dist\/scripts\/vendor\/modernizr.fbe20327.js",
+		"outputAbbreviatedPath": "\/dist\/scripts\/vendor\/min\/modernizr.fbe20327-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/dist\/styles\/main.53f68a87.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dist\/styles\/main.53f68a87.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dist\/styles\/vendor.d41d8cd9.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dist\/styles\/vendor.d41d8cd9.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/Gruntfile.js": {
 		"fileType": 64,
