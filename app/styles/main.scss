@@ -1,6 +1,6 @@
     $icon-font-path: "../bower_components/bootstrap-sass/assets/fonts/bootstrap/";
     // bower:scss
-    @import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+    @import "../../bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
     // endbower
     @font-face {
         font-family: Brushtip;
@@ -11,7 +11,8 @@
         margin: 0;
     }
     
-    .topContent, .footerDiv {
+    .topContent,
+    {
         width: 980px;
         margin: 0 auto;
         margin-bottom: 100px;
@@ -84,7 +85,7 @@
         padding-right: 15px;
     }
     
-    .bottomContent{
+    .bottomContent {
         min-height: 250px;
     }
     
@@ -125,27 +126,26 @@
         border-top: none;
         padding: 0;
         word-wrap: break-word;
-        margin-top:1px;
+        margin-top: 1px;
         line-height: normal;
         line-spacing: normal;
     }
     
     #news-entry {
-        padding:0px 15px 0px 15px;
-        position:relative;
+        padding: 0px 15px 0px 15px;
+        position: relative;
         .moreNews {
-          position:absolute;
-          height:25px;
-          width:18px;
-          background-color:#443633;
-          right:0;
-          top:-20px;
-          text-align:center;
-          padding-top:3px;
-          .plus {
-            color:white;
-
-          }
+            position: absolute;
+            height: 25px;
+            width: 18px;
+            background-color: #443633;
+            right: 0;
+            top: -20px;
+            text-align: center;
+            padding-top: 3px;
+            .plus {
+                color: white;
+            }
         }
     }
     
@@ -173,12 +173,14 @@
         font: normal normal normal 12px/1.4em Basic, sans-serif;
         // font-size:10px;
     }
+    
     .dotDivider {
-      width:180px;
-      border-bottom:1px dotted black;
-      border-top:none;
-      margin-left:-5px;
+        width: 180px;
+        border-bottom: 1px dotted black;
+        border-top: none;
+        margin-left: -5px;
     }
+    
     .col-md-4,
     .col-md-6 {
         padding: 0;
@@ -330,7 +332,7 @@
     .announcements {
         padding-left: 0;
         margin-right: 15px;
-        margin-top:1px;
+        margin-top: 1px;
     }
     
     .announcementOne a {
@@ -488,29 +490,64 @@
         background-color: #443633;
         // text-align:center;
         .logoAddress {
-          margin-left:25px;
-          margin-top:70px;
+            margin-left: 25px;
+            margin-top: 70px;
+        }
+        .footer {
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 70px 0px 25px 10px;
+            .col {
+                display: inline-block;
+                margin-right: 15px;
+                position: relative;
+                .social-links li {
+                    display: inline;
+                }
+                .divider {
+                    right: -25px;
+                    height: 60px;
+                    border-left: 1px dotted black;
+                    top: 0;
+                    color: black;
+                }
+                .last {
+                    margin-top: -10px;
+                }
+            }
+            .footerText {
+                margin-top: 10px;
+                vertical-align: middle;
+                &:nth-of-type(4) {
+                    ul {
+                        margin-right: 24px;
+                    }
+                }
+                
+            }
         }
         .footerlogo {
-          
-          margin-right:-20px;
-          img {
-            height:92px;
-            margin-right:-10px
-
-          }
-        }
-        .address {
-
-        }
-        ul {
-            list-style:none;
-            padding:15px 15px 15px 0px;
-
-            li {
-              color:black;
+            margin-right: -20px;
+            img {
+                height: 92px;
+                margin-right: -10px
             }
-          }
+        }
+        .contactLinks {
+            color:#6C6160;
+            &:hover {text-decoration:none;}
+        }
+        ul li {
+            list-style: none;
+            color: black;
 
-
+        }
+        .social {
+            margin-right:0;
+            margin-left:25px;
+            .social-links ul li {
+                display: inline;
+                margin-left: 25px;
+            }
+        }
     }

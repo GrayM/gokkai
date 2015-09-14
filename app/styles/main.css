@@ -6016,7 +6016,7 @@ button.close {
 body {
   margin: 0; }
 
-.topContent, .footerDiv {
+.topContent {
   width: 980px;
   margin: 0 auto;
   margin-bottom: 100px; }
@@ -6434,13 +6434,44 @@ a.sideLinks:hover {
   .bottomContent .logoAddress {
     margin-left: 25px;
     margin-top: 70px; }
+  .bottomContent .footer {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 70px 0px 25px 10px; }
+    .bottomContent .footer .col {
+      display: inline-block;
+      margin-right: 15px;
+      position: relative; }
+      .bottomContent .footer .col .social-links li {
+        display: inline; }
+      .bottomContent .footer .col .divider {
+        right: -25px;
+        height: 60px;
+        border-left: 1px dotted black;
+        top: 0;
+        color: black; }
+      .bottomContent .footer .col .last {
+        margin-top: -10px; }
+    .bottomContent .footer .footerText {
+      margin-top: 10px;
+      vertical-align: middle; }
+      .bottomContent .footer .footerText:nth-of-type(4) ul {
+        margin-right: 24px; }
   .bottomContent .footerlogo {
     margin-right: -20px; }
     .bottomContent .footerlogo img {
       height: 92px;
       margin-right: -10px; }
-  .bottomContent ul {
+  .bottomContent .contactLinks {
+    color: #6C6160; }
+    .bottomContent .contactLinks:hover {
+      text-decoration: none; }
+  .bottomContent ul li {
     list-style: none;
-    padding: 15px 15px 15px 0px; }
-    .bottomContent ul li {
-      color: black; }
+    color: black; }
+  .bottomContent .social {
+    margin-right: 0;
+    margin-left: 25px; }
+    .bottomContent .social .social-links ul li {
+      display: inline;
+      margin-left: 25px; }
